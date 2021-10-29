@@ -1,4 +1,4 @@
-
+apt-get install shc
 shc -f .tools.sh
 mv .tools.sh.x .tools
 chmod 777 .tools 

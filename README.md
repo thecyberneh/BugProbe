@@ -4,6 +4,8 @@ It automates some processes of recon and finds ONLY ACTIVE SUBDOMAINS for you.
 It finds some of the Juicy ENDPOINTS from ALL SUBDOMAINS of target DOMAIN
 Also, It will check that all ENDPOINTS with more than 10 common vulnerabilities.
 
+!(https://github.com/NehPatel24/BugProbe/blob/main/bugprobe.png)
+
 # Installation
 For installation, Run the Following command with SUPERUSER (ROOT)
 ```

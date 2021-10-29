@@ -5,7 +5,8 @@ It finds some of the Juicy ENDPOINTS from ALL SUBDOMAINS of target DOMAIN
 Also, It will check that all ENDPOINTS with more than 10 common vulnerabilities.
 
 # Installation
-For installation, Run the Following command with SUPERUSER (ROOT)
+<font color="blue">
+For installation, Run the Following command with SUPERUSER (ROOT) </font>
 <font color="blue">
 ```
 ▶ cd BugProbe

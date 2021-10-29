@@ -6,6 +6,7 @@ Also, It will check that all ENDPOINTS with more than 10 common vulnerabilities.
 
 # Installation
 For installation, Run the Following command with SUPERUSER (ROOT)
+<font color="blue">
 ```
 ▶ cd BugProbe
 
@@ -13,3 +14,4 @@ For installation, Run the Following command with SUPERUSER (ROOT)
 
 ▶ ./installer.sh
 ```
+</font>

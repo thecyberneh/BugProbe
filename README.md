@@ -7,7 +7,7 @@ Also, It will check that all ENDPOINTS with more than 10 common vulnerabilities.
 # Installation
 For installation, Run the Following command with SUPERUSER (ROOT)
 ```
-cd BugProbe
-chmod 777 installer.sh
-./installer.sh
+ cd BugProbe
+ chmod 777 installer.sh
+ ./installer.sh
 ```

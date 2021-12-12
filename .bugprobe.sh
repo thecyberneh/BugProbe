@@ -22,7 +22,7 @@ printf ""$by"
 
 printf ""$br"
 
-Twitter :-    https://twitter.com/IAmNehPatel
+Twitter :-   https://twitter.com/thecyberneh
 Instagram :- https://www.instagram.com/thecyberneh/
 Linkedin :-  https://www.linkedin.com/in/thenehpatel/
 

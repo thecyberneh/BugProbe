@@ -28,7 +28,7 @@ Linkedin :-  https://www.linkedin.com/in/thenehpatel/
 
 
 
-
+echo -e "$by"  "$bye"
 read -p "Enter Domain name without Https/www:  " DOMAIN 
 echo -e "$by"  "$bye"
 echo -e "$by" Domain is $DOMAIN "$bye"

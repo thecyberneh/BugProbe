@@ -43,7 +43,7 @@ echo -e "$blink" "$br"EXECUTION OF THIS TOOL MAY TAKE SOME TIME BECAUSE IT GRAPS
 subfinder -nW -d ${DOMAIN} &> /dev/null > .subdomain.txt
 
 
-cat .subdomain.txt | httpx -mc 200 302 &> /dev/null > activeDomain.txt 
+cat .subdomain.txt | httpx -fc 403,401,404 &> /dev/null > activeDomain.txt 
 echo -e "$by"  "$bye"
 echo -e "$by" Dead or Deactive subdomains are removed from file "subdomain.txt" and new results are saved in file activeDomain.txt  "$bye"
 
@@ -52,7 +52,7 @@ cat activeDomain.txt | gau &> /dev/null > .endpoints.txt
 echo -e "$by"  "$bye"
 echo -e "$by" Endpoints are collected from all active subdomain and saved in endpoints.txt "$bye"
 
-cat .endpoints.txt | httpx -mc 200 302 &> /dev/null > activeEndpoints.txt
+cat .endpoints.txt | httpx -fc 403,401,404 &> /dev/null > activeEndpoints.txt
 echo -e "$by"  "$bye"
 echo -e "$by" Dead or Deactive endpoints are removed from file "endpoints.txt" and new results are saved in file activeEndpoints.txt  "$bye"
 echo -e "$by"  "$bye"

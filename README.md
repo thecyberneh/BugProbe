@@ -7,7 +7,7 @@
 <a><img title="Version" src="https://img.shields.io/badge/Version-3.0-green.svg?style=flat-square"></a>
 </p>
 
-![BugProbe Image](https://github.com/thecyberneh/BugProbe/blob/main/bugprobeV3.0.jpg "BugProbe")
+![BugProbe Image](https://github.com/ItsAnonymousPlace/testrepo/blob/main/Screenshot%20(24).png "BugProbe")
 
 <p align="center">
 <a><img title="Github" src="https://img.shields.io/badge/Tool-BugProbe-brightgreen?style=for-the-badge&logo=github"></a>
